@@ -1,2 +1,2 @@
-67 this is my new file
+67. This is my new file,first git class.
 
