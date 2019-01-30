@@ -1,2 +1,4 @@
+
 67. This is my new file,first git class.
 
+day two
